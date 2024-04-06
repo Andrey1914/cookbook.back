@@ -1,0 +1,11 @@
+{
+  "name": "cookbook.back",
+  "version": "1.0.0",
+  "description": "The application for resipies",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrey1914",
+  "license": "ISC"
+}
